@@ -7,3 +7,6 @@ our second file
 now we have git enabled
 
 Added more lines to update
+
+
+had good ides, so came back.
