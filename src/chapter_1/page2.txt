@@ -1,6 +1,6 @@
 
 
-This is page 2 of chapter 1
+This is page 2 of chapter 1 (created newly)
 
 our second file
 
